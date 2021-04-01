@@ -1,0 +1,177 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.98703598976135,
+          -3.125319995633088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.9865049123764,
+          -3.12496647057355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.98559832572936,
+          -3.124532598746801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.98495459556579,
+          -3.1240773009579748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "waste-basket",
+        "type": "paper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.985008239746094,
+          -3.1240987267407068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "waste-basket",
+        "type": "glass bottle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.984986782073975,
+          -3.124125508968502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "waste-basket",
+        "type": "plastic bag"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.98453617095948,
+          -3.12378805284839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "waste-basket",
+        "type": "plastic bottle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.98175203800201,
+          -3.1218543736245414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "waste-basket",
+        "type": "plastic bag"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.992303848266594,
+          -3.1279660733564856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "waste-basket",
+        "type": "bottle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.994186758995056,
+          -3.1292837532951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "waste-basket",
+        "type": "plastic bag"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.99411702156066,
+          -3.1292891097142355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "waste-basket",
+        "type": "tire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -59.9940602156066,
+          -3.1292891097142355
+        ]
+      }
+    }
+  ]
+}
